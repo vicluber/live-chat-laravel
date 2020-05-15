@@ -6,6 +6,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+## To run it:
+
+1- php artisan serve
+2- php artisan websockets:serve
+3- Check the working with http://127.0.0.1:8000/laravel-websockets
+
 
 ## About Laravel
 
